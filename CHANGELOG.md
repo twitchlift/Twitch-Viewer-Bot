@@ -28,7 +28,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [2.4.0] - 2026-04-15
 
 ### Added
-- Free trial system — 500 viewers for 10 minutes, no credit card required
+- Free trial system — 1000 viewers for 10 minutes, no credit card required
 - Automated email verification with rate limiting
 - Blog system for SEO content and Twitch growth guides
 - FAQ section with Schema.org structured data for Google rich results

@@ -63,7 +63,7 @@ After testing dozens of Twitch view bot services, **TwitchLift** consistently ra
 - **Best pricing** — Starting at $5/month
 - **Best capacity** — Up to 100,000 viewers
 - **Best stability** — 99.9% uptime
-- **Best trial** — 500 free viewers, no card needed
+- **Best trial** — 1000 free viewers, no card needed
 - **Best support** — 24/7 availability
 
 ### TwitchLift Quick Stats
@@ -76,7 +76,7 @@ After testing dozens of Twitch view bot services, **TwitchLift** consistently ra
 | Detection Rate | 0% |
 | Uptime | 99.9% |
 | Starting Price | $5/mo |
-| Free Trial | 500 viewers / 10 min |
+| Free Trial | 1000 viewers / 10 min |
 | Payment | Crypto (70+ coins) |
 
 ---

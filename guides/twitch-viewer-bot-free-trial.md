@@ -14,7 +14,7 @@ That's why **TwitchLift offers a completely free trial**. We are so confident in
 
 When you claim your TwitchLift free trial, you get access to our premium viewer bot engine with no restrictions on quality.
 
-- **500 Live Viewers:** Watch your viewer count spike by 500 viewers.
+- **1000 Live Viewers:** Watch your viewer count spike by 1000 viewers.
 - **10 Minutes Duration:** Enough time to see the viewers connect, stabilize, and verify the quality in your Twitch Creator Dashboard.
 - **Instant Delivery:** Viewers start appearing within 5 seconds of activation.
 - **Zero Downloads:** Fully cloud-based operation from your browser.
@@ -45,5 +45,5 @@ If you are satisfied with your free trial and want to keep the viewers running 2
 
 TwitchLift offers the most affordable pricing on the market, starting at just **$5/month for 100 viewers**, scaling all the way up to **100,000 viewers**.
 
-### 👉 [Claim Your 500 Viewer Free Trial Now](https://twitchlift.com/register)
+### 👉 [Claim Your 1000 Viewer Free Trial Now](https://twitchlift.com/register)
 ### 👉 [View Premium Plans & Pricing](https://twitchlift.com/pricing)

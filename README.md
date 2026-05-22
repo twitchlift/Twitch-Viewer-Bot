@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://twitchlift.com"><img src="https://img.shields.io/badge/Website-twitchlift.com-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="TwitchLift Website"/></a>
-  <a href="https://twitchlift.com/register"><img src="https://img.shields.io/badge/Free_Trial-500_Viewers-00C853?style=for-the-badge&logo=lightning&logoColor=white" alt="Free Trial"/></a>
+  <a href="https://twitchlift.com/register"><img src="https://img.shields.io/badge/Free_Trial-1000_Viewers-00C853?style=for-the-badge&logo=lightning&logoColor=white" alt="Free Trial"/></a>
   <a href="https://twitchlift.com/pricing"><img src="https://img.shields.io/badge/Plans_From-$5%2Fmo-FF6F00?style=for-the-badge&logo=dollar-sign&logoColor=white" alt="Pricing"/></a>
 </p>
 
@@ -32,7 +32,7 @@
 - 🔒 **Zero Downloads** — No software to install, no proxies to configure. Everything runs in the cloud
 - 🤖 **Fully Automated** — Set it and forget it. Our view bot runs 24/7 with auto-restart capabilities
 - 💰 **Starting at $5/mo** — The most affordable Twitch viewer bot service on the market
-- 🎁 **Free Trial** — Try our Twitch view bot free with 500 viewers for 10 minutes, no credit card required
+- 🎁 **Free Trial** — Try our Twitch view bot free with 1000 viewers for 10 minutes, no credit card required
 - 🪙 **Crypto Payments** — Pay with Bitcoin, Ethereum, USDT, and 70+ cryptocurrencies
 - 📊 **Real-Time Dashboard** — Monitor your viewer count, stream status, and campaign analytics live
 
@@ -121,7 +121,7 @@ TwitchLift offers the **cheapest Twitch viewer bot** pricing on the market with 
 
 Try our **Twitch view bot free** before you buy:
 
-- **500 free viewers** for 10 minutes
+- **1000 free viewers** for 10 minutes
 - No credit card required
 - No downloads needed
 - Instant activation
@@ -141,7 +141,7 @@ How does TwitchLift compare to other Twitch viewer bot services?
 | **No Downloads** | ✅ Cloud-based | ❌ Requires software |
 | **No Proxies Needed** | ✅ Built-in | ❌ BYO proxies |
 | **Instant Delivery** | ✅ Seconds | ⚠️ Minutes to hours |
-| **Free Trial** | ✅ 500 viewers | ❌ Most don't offer |
+| **Free Trial** | ✅ 1000 viewers | ❌ Most don't offer |
 | **Crypto Payments** | ✅ 70+ coins | ⚠️ Limited options |
 | **Max Viewers** | ✅ 100,000 | ⚠️ Usually < 10K |
 | **Auto-Restart** | ✅ Included | ❌ Manual restart |
@@ -172,7 +172,7 @@ TwitchLift's view bot connects to your Twitch stream using the same WebSocket pr
 
 ### Can I try the Twitch view bot for free?
 
-Yes! TwitchLift offers a **free trial with 500 viewers** for 10 minutes. No credit card required. Simply create an account and start your trial immediately.
+Yes! TwitchLift offers a **free trial with 1000 viewers** for 10 minutes. No credit card required. Simply create an account and start your trial immediately.
 
 ### How many viewers can I get?
 

@@ -28,7 +28,7 @@ Before purchasing, test our Twitch view bot for free:
 1. From the dashboard, click **"Start Free Trial"**
 2. Enter your Twitch channel name
 3. Click **"Activate Trial"**
-4. 500 viewers will appear on your stream within seconds
+4. 1000 viewers will appear on your stream within seconds
 5. Trial lasts 10 minutes — plenty of time to verify it works!
 
 > ⚠️ **Note:** Free trial is limited to one per account. No credit card required.

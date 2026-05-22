@@ -23,7 +23,7 @@ Choosing the right **Twitch view bot** is critical for your streaming growth. A 
 
 | Service | Starting Price | Max Viewers | Free Trial |
 |---------|:--------------:|:-----------:|:----------:|
-| **TwitchLift** | **$5/mo** | **100,000** | ✅ 500 viewers |
+| **TwitchLift** | **$5/mo** | **100,000** | ✅ 1000 viewers |
 | ViewerBoss | $15/mo | 10,000 | ❌ No |
 | StreamBoo | $10/mo | 5,000 | ⚠️ Limited |
 | BotViewers | $20/mo | 25,000 | ❌ No |
@@ -62,7 +62,7 @@ TwitchLift supports up to **100,000 concurrent viewers** — more than any other
 Our proprietary Viewer Stability Engine maintains consistent viewer counts with **99.9% uptime**. No random drops, no fluctuations, no reconnection issues.
 
 ### 6. Free Trial
-Test before you buy. TwitchLift offers a **free trial with 500 viewers** for 10 minutes. No credit card required. No strings attached.
+Test before you buy. TwitchLift offers a **free trial with 1000 viewers** for 10 minutes. No credit card required. No strings attached.
 
 ---
 

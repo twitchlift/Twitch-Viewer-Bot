@@ -23,7 +23,7 @@ If a service offers 10,000 viewers for $2, it is almost certainly a scam or uses
 **NEVER give your Twitch password to a viewer bot service.** Legitimate services only need your channel username. TwitchLift will never ask for your password.
 
 ### 3. No Free Trial
-If a service doesn't let you test it first, they likely have a poor quality product. TwitchLift offers a **free trial of 500 viewers for 10 minutes** so you can verify the quality yourself.
+If a service doesn't let you test it first, they likely have a poor quality product. TwitchLift offers a **free trial of 1000 viewers for 10 minutes** so you can verify the quality yourself.
 
 ### 4. Requires Software Downloads
 Downloading executable files from bot providers is a massive security risk (malware, keyloggers). The best services are 100% cloud-based.

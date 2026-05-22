@@ -20,7 +20,7 @@ TwitchLift stands apart in several key ways:
 - **Instant delivery** — Viewers appear in under 5 seconds
 - **99.9% stability** — Industry-leading viewer retention without drops
 - **Up to 100K viewers** — Highest capacity of any viewer bot service
-- **Free trial** — 500 viewers for 10 minutes, no payment required
+- **Free trial** — 1000 viewers for 10 minutes, no payment required
 
 ### Is TwitchLift safe to use?
 TwitchLift uses advanced anti-detection technology that makes our viewer traffic appear identical to real, organic Twitch viewers. We use the same WebSocket protocol that legitimate Twitch viewers use, with proper metadata and behavior patterns. Our service has maintained a 0% detection rate across all testing.
@@ -41,7 +41,7 @@ TwitchLift accepts **cryptocurrency payments only** for maximum privacy. Support
 - And 70+ additional cryptocurrencies
 
 ### Is there a free trial?
-Yes! TwitchLift offers a **free trial** with **500 viewers** for **10 minutes**. No credit card or payment required. [Start your free trial →](https://twitchlift.com/register)
+Yes! TwitchLift offers a **free trial** with **1000 viewers** for **10 minutes**. No credit card or payment required. [Start your free trial →](https://twitchlift.com/register)
 
 ### Can I upgrade or downgrade my plan?
 Yes. You can change your plan at any time from your dashboard. Upgrades take effect immediately, and downgrades apply at the end of your current billing cycle.
