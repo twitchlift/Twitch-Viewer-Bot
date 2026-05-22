@@ -1,0 +1,25 @@
+{
+  "name": "twitchlift",
+  "version": "2.5.0",
+  "description": "TwitchLift — #1 Twitch view bot and viewer bot service. Buy Twitch viewers instantly. Free trial, crypto payments, up to 100K viewers.",
+  "homepage": "https://twitchlift.com",
+  "keywords": [
+    "twitch-view-bot",
+    "twitch-viewer-bot",
+    "view-bot",
+    "viewer-bot",
+    "twitch-bot",
+    "buy-twitch-viewers",
+    "twitch-viewers",
+    "twitch-viewbot",
+    "twitch-stream-bot",
+    "cheap-twitch-viewers",
+    "free-twitch-viewers",
+    "twitch-booster",
+    "twitch-viewer-service",
+    "twitch-view-bot-2026",
+    "undetectable-viewer-bot"
+  ],
+  "author": "TwitchLift <support@twitchlift.com>",
+  "license": "MIT"
+}
